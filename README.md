@@ -1,1 +1,1 @@
-# Custom Banner Patterns
+# Custom Banners
